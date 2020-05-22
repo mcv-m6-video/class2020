@@ -22,3 +22,36 @@ This repo contains material related to the edition 2020 of this course.
  [w4_intro]: https://docs.google.com/presentation/d/1Y-w_QuFWGwXNEO1MdMnM5fXleehEQIkrFo2LNQ6hEJ4/edit?usp=sharing
  [w4_report]: https://docs.google.com/presentation/d/144YnKDpXUcER2rBM1beQ5ktwd1lh7ziAZvt18FeaIYc/edit?usp=sharing
  
+ 
+ The final projects of the student teams for the 6th Workshop on Road Traffic Monitoring can be found in the table below.
+
+| Team     |                         |                      |                          |
+|----------|:-----------------------:|:--------------------:|:------------------------:|
+| Team 2   | [Slides][team2-slides]  | [Code][team2-code]   |  [Report][team2-report]. |
+| Team 3   | [Slides][team3-slides]  | [Code][team3-code]   |  [Report][team3-report]  |
+| Team 4   | [Slides][team4-slides]  | [Code][team4-code]   |  [Report][team4-report]  |
+| Team 5   | [Slides][team5-slides]  | [Code][team5-code]   |  [Report][team5-report]  |
+| Team 6   | [Slides][team6-slides]  | [Code][team6-code]   |  [Report][team6-report]  |
+
+
+[team2-slides]: https://docs.google.com/presentation/d/1xeUgqfad06A-rAoyQgwv2yyhKtFYFCpz5lcmfXGfKN0/edit?usp=sharing
+[team2-code]: https://github.com/mcv-m6-video/mcv-m6-2020-team2
+[team2-report]: https://github.com/mcv-m6-video/mcv-m6-2020-team2/blob/master/report.pdf
+
+[team3-slides]: https://docs.google.com/presentation/d/1VasprYLcgt9CrHsns_UD0mKGjKkKP6lzKt5dVO2Eym0/edit?usp=sharing
+[team3-code]: https://github.com/mcv-m6-video/mcv-m6-2020-team3
+[team3-report]: https://www.overleaf.com/read/nhxxqrvsrxbg
+
+[team4-slides]: https://docs.google.com/presentation/d/1MTCcpng-TTtacXsIKwuimg38bEGhQZOGi9io14Ir41g/edit?usp=sharing
+[team4-code]: https://github.com/mcv-m6-video/mcv-m6-2020-team4
+[team4-report]: https://www.overleaf.com/read/pjqhggcfpfwj
+
+[team5-slides]: https://docs.google.com/presentation/d/1pDFVmdLl78mPiCXpMbp4RYjThJxFH2t5P364LMznqPg/edit?usp=sharing
+[team5-code]: https://github.com/mcv-m6-video/mcv-m6-2020-team5
+[team5-report]: https://github.com/mcv-m6-video/mcv-m6-2020-team5/blob/master/M6___Group_05___Final_Report.pdf
+
+[team6-slides]: https://drive.google.com/open?id=1ndwDUP4WHI8uB9d9DtD2tVr1oIO9h5T5TTdt2TN6AX8
+[team6-code]: https://github.com/mcv-m6-video/mcv-m6-2020-team6
+[team6-report]: https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/Final_Report.pdf
+
+ 
